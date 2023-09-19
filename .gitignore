@@ -162,5 +162,10 @@ cython_debug/
 
 .vscode/
 
+# Jupyter Notebook stuff
 kaggle.json
 data/
+runs/
+*.pth
+*.h5
+*.pb
